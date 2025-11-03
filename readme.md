@@ -242,9 +242,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -253,10 +251,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Statsmodels contributors for robust statistical tools
 
 
-Project Link: [https://github.com/yourusername/quant-live-analytics-dashboard](https://github.com/yourusername/quant-live-analytics-dashboard)
+Project Link: [https://github.com/akash-deepak-varma/quant-live-analytics-dashboard](https://github.com/akash-deepak-varma/quant-live-analytics-dashboard)
 
 ---
 
 **⭐ If you find this project useful, please consider giving it a star!**
+
 
 Made with ❤️ by Akash
