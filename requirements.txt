@@ -1,0 +1,11 @@
+Flask==2.2.5
+dash==2.11.0
+pandas==2.2.2
+numpy==1.26.2
+websocket-client==1.6.3
+sqlalchemy==2.0.18
+statsmodels
+scikit-learn==1.7.2
+pykalman==0.10.2
+python-dateutil
+gunicorn==23.0.0
