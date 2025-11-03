@@ -6,7 +6,7 @@
 
 A real-time quantitative trading dashboard that streams live cryptocurrency data from Binance, performs statistical analysis, and visualizes market dynamics with interactive charts. Built to simulate a professional quant research platform with production-ready architecture.
 
-![Dashboard Demo](https://via.placeholder.com/800x400.png?text=Dashboard+Screenshot)
+![Dashboard Demo][(https://via.placeholder.com/800x400.png?text=Dashboard+Screenshot](https://github.com/akash-deepak-varma/quant-live-analytics-dashboard/blob/main/Dash-board.png))
 
 ## 🚀 Overview
 
@@ -259,3 +259,4 @@ Project Link: [https://github.com/akash-deepak-varma/quant-live-analytics-dashbo
 
 
 Made with ❤️ by Akash
+
