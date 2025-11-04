@@ -1,0 +1,13 @@
+ChatGPT was used occasionally as a technical reference tool during the development of this project.
+Its usage was limited to clarifying Python syntax, improving documentation structure, and suggesting best practices for modular design.
+All critical components — including data ingestion, analytics computation, alerts, and Streamlit integration — were independently designed, implemented, and tested by the author.
+
+Example Prompts Used
+
+“How to structure a Python project with separate frontend and backend directories?”
+
+“Fix cannot access local variable 'time' error in a multithreaded Python module.”
+
+“Explain how to handle live data updates gracefully in Streamlit.”
+
+“Provide a short, professional ChatGPT usage transparency statement for a report.”
