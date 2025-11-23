@@ -1,4 +1,4 @@
-# 🧠 Quant Live Analytics Dashboard
+# Quant Live Analytics Dashboard
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.20+-red.svg)](https://streamlit.io/)
@@ -8,7 +8,7 @@ A real-time quantitative trading dashboard that streams live cryptocurrency data
 
 ![Dashboard Demo](https://github.com/akash-deepak-varma/quant-live-analytics-dashboard/blob/main/Dash-board.png)
 
-## 🚀 Overview
+## Overview
 
 This project delivers a complete real-time analytics pipeline for cryptocurrency markets, featuring:
 
@@ -20,9 +20,9 @@ This project delivers a complete real-time analytics pipeline for cryptocurrency
 
 Perfect for quant researchers, algorithmic traders, and data scientists exploring high-frequency financial data.
 
-## ✨ Features
+##  Features
 
-### 📊 Core Capabilities
+### Core Capabilities
 
 | Feature | Description |
 |---------|-------------|
@@ -35,7 +35,7 @@ Perfect for quant researchers, algorithmic traders, and data scientists explorin
 | **Graceful UI** | Smooth symbol switching with loading states and error handling |
 | **Persistent Storage** | SQLite database for tick history and analytics replay |
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 ┌─────────────────────────────────────────────────────────┐
@@ -72,7 +72,7 @@ Perfect for quant researchers, algorithmic traders, and data scientists explorin
 └─────────────────────────────────────────────────────────┘
 ```
 
-## 🧮 Analytics Methodology
+## Analytics Methodology
 
 | Metric | Description |
 |--------|-------------|
@@ -83,7 +83,7 @@ Perfect for quant researchers, algorithmic traders, and data scientists explorin
 | **Rolling Correlation** | Pearson correlation between asset returns over sliding window (default: 30 periods) |
 | **OHLCV Resampling** | Aggregates tick data into open-high-low-close-volume bars per timeframe |
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Technology | Purpose |
 |-------|-----------|---------|
@@ -96,7 +96,7 @@ Perfect for quant researchers, algorithmic traders, and data scientists explorin
 | **Statistics** | Statsmodels | OLS regression, ADF test |
 | **Auto-refresh** | streamlit-autorefresh | Live dashboard updates |
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 quant_streamlit_app/
@@ -117,7 +117,7 @@ quant_streamlit_app/
 └── .gitignore
 ```
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -158,7 +158,7 @@ quant_streamlit_app/
    
    Navigate to `http://localhost:8501` (opens automatically)
 
-## 💡 Usage Example
+## Usage Example
 
 ### Basic Workflow
 
@@ -186,7 +186,7 @@ quant_streamlit_app/
 ### Sample Output
 
 ```
-📊 Real-time Statistics
+Real-time Statistics
 ─────────────────────────
 BTCUSDT Mean:    $43,521.45
 BTCUSDT Std Dev: $127.89
@@ -198,17 +198,17 @@ BTCUSDT Std Dev: $127.89
 ✅ ADF p-value:     0.023 (Stationary)
 ```
 
-## 🎯 Key Highlights
+## Key Highlights
 
-- ⚡ **Sub-second latency** streaming with WebSocket
-- 📊 **Multi-symbol support** with independent analytics
-- 🧩 **Modular design** for easy extension and maintenance
-- 🔄 **Auto-reconnection** on symbol changes
-- 📈 **Production-ready** code with error handling
-- 🎨 **Beautiful UI** with responsive Plotly charts
-- 💾 **Data persistence** for historical analysis
+- **Sub-second latency** streaming with WebSocket
+- **Multi-symbol support** with independent analytics
+- **Modular design** for easy extension and maintenance
+-  **Auto-reconnection** on symbol changes
+- **Production-ready** code with error handling
+- **Beautiful UI** with responsive Plotly charts
+- **Data persistence** for historical analysis
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 - [ ] **Advanced Analytics**: Kalman filter hedge ratios, volatility modeling
 - [ ] **Machine Learning**: Train models on z-score/correlation features
@@ -219,7 +219,7 @@ BTCUSDT Std Dev: $127.89
 - [ ] **Multi-exchange**: Support for Coinbase, Kraken, etc.
 - [ ] **Portfolio Analytics**: Multi-asset risk and return metrics
 
-## 📚 What You'll Learn
+## What You'll Learn
 
 By exploring this project, you'll gain hands-on experience with:
 
@@ -232,7 +232,7 @@ By exploring this project, you'll gain hands-on experience with:
 - ✅ Reactive web applications with Streamlit
 - ✅ Production-ready error handling and logging
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes:
 
@@ -244,7 +244,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Binance for providing free WebSocket API access
 - Streamlit community for excellent documentation
@@ -255,7 +255,7 @@ Project Link: [https://github.com/akash-deepak-varma/quant-live-analytics-dashbo
 
 ---
 
-**⭐ If you find this project useful, please consider giving it a star!**
+** If you find this project useful, please consider giving it a star!**
 
 
 Made with ❤️ by Akash
